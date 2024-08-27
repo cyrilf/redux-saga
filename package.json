@@ -101,7 +101,7 @@
     "tape": "^4.2.2",
     "typescript": "^2.2.1",
     "typings-tester": "^0.2.2",
-    "webpack": "1.13.0",
+    "webpack": "5.94.0",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0"
   },
